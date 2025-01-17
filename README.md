@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MohdShazan)
+
 
 ## 📊 GitHub Analytics:
 
