@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+I'm+Mohd+Shazan+%F0%9F%91%8B;Passionate+Data+Scientist+%7C+AI+Engineer+%7C+Generative+AI+Enthusiast;Building+innovative+AI+solutions+to+shape+the+future+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 # 💫 About Me:
 Hi, I'm Mohd Shazan, a tech enthusiast passionate about creating AI-driven solutions and innovating in Generative AI. I specialize in developing and fine-tuning advanced AI systems to address complex challenges. I graduated in 2024 with a B.Tech in Computer Science from Jamia Hamdard University, India.
 
