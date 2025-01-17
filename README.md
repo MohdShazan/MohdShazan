@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+I'm+Mohd+Shazan+%F0%9F%91%8B;Passionate+Data+Scientist+%7C+AI+Engineer+%7C+Generative+AI+Enthusiast;Building+innovative+AI+solutions+to+shape+the+future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<li>🚀 Greetings, earthlings! I’m <b>Shazan</b>, a tech wizard on a mission to bridge the gap between imagination and reality using the power of Artificial Intelligence. 🌌</li>
+<li>🚀 Greetings, earthlings! I’m <b>Shazan</b>, a tech wizard on a mission to bridge the gap between imagination and reality using the power of Artificial Intelligence. </li>
 <li>I’ve set my sights on building intelligent systems that can think, learn, and innovate.</li>
-<li>Specializing in crafting mind-bending Generative AI solutions, training machines to decipher the mysteries of language, and fine-tuning models that make magic happen. 🎨💻</li>
-<li>Let’s push boundaries and create something extraordinary. Together, we can turn data into decisions and algorithms into art.</li>
+<li>Specializing in crafting mind-bending Generative AI solutions, training machines to decipher the mysteries of language, and fine-tuning models that make magic happen. </li>
+<li>Let’s push boundaries and create something extraordinary. Together, we can turn data into decisions and algorithms into art.🎨💻</li>
 
 
 ### 📬 Connect with Me:
