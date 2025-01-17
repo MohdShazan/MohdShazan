@@ -14,9 +14,7 @@
 <a href="https://www.kaggle.com/mohdshazan">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
 </a>
-<a href="https://www.hackerearth.com/@mohdshazan">
-  <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=blue" alt="HackerEarth Badge"/>
-</a>
+
 
 ## 📊 GitHub Analytics:
 
